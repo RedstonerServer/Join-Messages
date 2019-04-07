@@ -1,0 +1,4 @@
+name: RedstonerJoinMessages
+main: com.redstoner.bungee.joinmessages.JoinMessages
+version: 1
+author: Minenash
