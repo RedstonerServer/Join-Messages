@@ -28,7 +28,7 @@ public class CommandServer extends Command {
   
   @SuppressWarnings("deprecation")
   public void execute(CommandSender sender, String[] args) {
-    
+   
 	if (args.length == 0) {
 		Map<String, ServerInfo> servers = ProxyServer.getInstance().getServers();
     	
